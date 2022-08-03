@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam42&label=Profile%20views&color=0e75b6&style=flat" alt="anupam42" /> </p>
 
+- 🔭 I’m currently working on Sving.
 - 🌱 I’m currently learning **Rust & GoLang**
-
 - 💬 Ask me about **Angular, Angularjs, Js, NextJs, React, Svelte**
-
 - 📫 How to reach me **anupam.udupi@gmail.com**
+- 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
