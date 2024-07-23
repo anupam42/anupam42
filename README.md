@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anupam</h1>
 <h3 align="center">A passionate Front-End developer from India</h3>
 
-<img align="right" src="https://thenounproject.com/icon/developer-5399529" width="500" height="350"/>
-
 - 🔭 I’m currently working on Sving.
 - 🌱 I’m currently learning **Rust & GoLang**
 - 💬 Ask me about **Angular, Angularjs, Js, NextJs, React, Svelte**
