@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Anupam</h1>
+<h1 align="center">👋 Hi, I'm Anupam(AR.Udupi)</h1>
 <p align="center">
-  <strong>Senior Front-End Engineer • UI Systems Architect • Rust & Go Learner</strong>
+  <strong>Lead UI Engineer • UI Systems Architect • Rust & Go Learner</strong>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building **Sving**
+- 🔭 Currently building **@Mavim**
 - 🌱 Learning **Rust** & **GoLang**
 - 💬 Ask me about **Angular, React, Next.js, Svelte, JS/TS**
 - 📫 Reach me at **anupam.udupi@gmail.com**
@@ -30,7 +30,13 @@
 ## 🛠️ Tech Stack
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nextjs,svelte,go,rust" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nextjs,svelte" height="40"/>
+</p>
+
+## 🛠️ Tech Stack
+### Learning & Building
+<p>
+  <img src="https://skillicons.dev/icons?i=go,rust,.net" height="40"/>
 </p>
 
 ### DevOps / Cloud / Tools
@@ -45,7 +51,7 @@
 
 ### Testing
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,cypress" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cypress,playwright" height="40"/>
 </p>
 
 ### Design
@@ -57,9 +63,10 @@
 
 ## 📊 GitHub Overview
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anupam42&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam42&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anupam42&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anupam42&layout=compact&theme=default&hide_border=true" />
 </p>
+
 
 ---
 
