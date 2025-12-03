@@ -37,8 +37,18 @@
 
 ### 🔥 Learning & Building
 <p>
-  <img src="https://skillicons.dev/icons?i=go,rust,dotnet&theme=dark" height="40"/>
+
+🔹 **Rust**  
+<img src="https://progress-bar.dev/20/?title=Beginner&color=00eaff&width=300" />
+
+🔹 **GoLang**  
+<img src="https://progress-bar.dev/25/?title=Beginner&color=00ff9d&width=300" />
+
+🔹 **.NET**  
+<img src="https://progress-bar.dev/10/?title=Beginner&color=ff00e0&width=300" />
+
 </p>
+
 
 ### ⚙️ DevOps / Cloud / Tools
 <p>
