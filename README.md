@@ -63,9 +63,9 @@
 
 ## 📊 GitHub Overview
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anupam42&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anupam42&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anupam42&theme=transparent" />
 </p>
+
 
 
 ---
