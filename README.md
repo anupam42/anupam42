@@ -1,70 +1,100 @@
-<!--
-  ┌────────────────────────────────────────────────────────────────┐
-  │  Custom animated banner — commit assets/banner.svg to this repo │
-  │  It animates natively on GitHub (SMIL + CSS-in-SVG). No service, │
-  │  no rate limits, unique to you.                                  │
-  └────────────────────────────────────────────────────────────────┘
--->
- 
+<h1 align="center">👋 Hi, I'm Anupam (AR.Udupi)</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anupam42/anupam42/main/assets/banner.svg" width="100%" alt="Anupam Udupi — Lead UI Engineer" />
+  <strong>Lead UI Engineer • UI Systems Architect • Rust & Go Learner</strong>
 </p>
+
 <p align="center">
-  <a href="https://linkedin.com/in/anupam-udupi-4a728229"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anupam.udupi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=anupam42&style=for-the-badge&color=19f0ff&label=PROFILE+VIEWS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1200&color=00F3FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Design+System+Architect;Rust+%26+Go+Enthusiast;Building+Modern+Web+Experiences" />
 </p>
+
 ---
- 
-## `>` whoami
- 
-```ts
-const anup = {
-  role:      "Lead UI Engineer / UI Systems Architect",
-  building:  "@Mavim  —  iMprove",
-  stack:     ["Angular", "React", "Next.js", "Svelte", "TS"],
-  learning:  ["Rust 🦀", "Go 🐹"],
-  loves:     "design systems, dev tooling, neon dark-mode",
-  pronouns:  "he/him",
-} as const;
-```
- 
+
+## 🚀 About Me
+- 🔭 Currently building **@Mavim**
+- 🌱 Learning **Rust** & **GoLang**
+- 💬 Ask me about **Angular, React, Next.js, Svelte, JS/TS**
+- 📫 Contact: **anupam.udupi@gmail.com**
+- 😄 Pronouns: **He/Him**
+
 ---
- 
-## `>` arsenal
- 
-**Languages & Frameworks**
+
+## 🌐 Connect With Me
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nextjs,svelte&theme=dark" height="40" />
+  <a href="https://linkedin.com/in/anupam-udupi-4a728229" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="45"/>
+  </a>
 </p>
-**Learning & Building**
-<p>
-  <img src="https://skillicons.dev/icons?i=go,rust,dotnet&theme=dark" height="40" />
-</p>
-**DevOps / Cloud / Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,nginx,jenkins,git,linux&theme=dark" height="40" />
-</p>
-**Data · Testing · Design**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,cypress,playwright,figma&theme=dark" height="40" />
-</p>
+
 ---
- 
-## `>` telemetry
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anupam42&show_icons=true&hide_border=true&bg_color=05030d&title_color=19f0ff&icon_color=ff2bd0&text_color=9fb2c9&ring_color=19f0ff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam42&layout=compact&hide_border=true&bg_color=05030d&title_color=19f0ff&text_color=9fb2c9&langs_count=8" />
+
+# 🛠️ Tech Stack
+
+### ⚡ Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nextjs,svelte&theme=dark" height="40"/>
 </p>
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anupam42&theme=react-dark&bg_color=05030d&color=19f0ff&line=ff2bd0&point=ffffff&area=true&area_color=19f0ff&hide_border=true" />
+
+### 🔥 Learning & Building
+<p>
+
+🔹 **Rust**  
+<img src="https://progress-bar.dev/20/?title=Beginner&color=00eaff&width=300" />
+
+🔹 **GoLang**  
+<img src="https://progress-bar.dev/25/?title=Beginner&color=00ff9d&width=300" />
+
+🔹 **.NET**  
+<img src="https://progress-bar.dev/10/?title=Beginner&color=ff00e0&width=300" />
+
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anupam42&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+
+### ⚙️ DevOps / Cloud / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,nginx,jenkins,git,linux&theme=dark" height="40"/>
 </p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="40"/>
+</p>
+
+### 🧪 Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress,playwright&theme=dark" height="40"/>
+</p>
+
+### 🎨 Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40"/>
+</p>
+
 ---
- 
+
+# 🔥 Cyberpunk Dev Stats
+
+## ✨ Contribution Heatmap
 <p align="center">
-  <em>clean code · neon vibes · cyberpunk dev life</em>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupam42&theme=react-dark&bg_color=000000&color=00E5FF&line=00FFC8&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anupam42&theme=neon-dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Trophy Board
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anupam42&theme=discord&no-frame=true&no-bg=true&column=6" />
+</p>
+
+---
+
+<p align="center">
+  <i style="font-size:16px;">💡 Clean Code. Neon Vibes. Cyberpunk Dev Life.</i>
 </p>
